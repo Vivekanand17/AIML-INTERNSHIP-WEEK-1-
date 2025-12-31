@@ -1,0 +1,15 @@
+Column Analyzed: Marks
+Category Analyzed: Department
+
+Total Records: 10
+Missing Marks: 4
+
+Mean Marks: 77.17
+Median Marks: 75.0
+Standard Deviation: 9.58
+
+Department Wise Count:
+Computer - 4
+Mechanical - 2
+Electrical - 2
+Civil - 2

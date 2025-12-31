@@ -1,0 +1,11 @@
+StudentID,Marks,Department
+S101,78,Computer
+S102,NA,Mechanical
+S103,65,Electrical
+S104,,Computer
+S105,72,Civil
+S106,null,Mechanical
+S107,88,Computer
+S108,91,Electrical
+S109,None,Civil
+S110,69,Computer
